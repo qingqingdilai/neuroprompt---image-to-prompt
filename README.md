@@ -91,4 +91,4 @@ NeuroPrompt 是一个使用 React + Vite 构建的逆向图像分析工具。它
 
 ---
 
-如需从 AI Studio 直接打开官方版本，可访问：[https://ai.studio/apps/drive/1a-ChjbQ9jT7tePE-JK02LjYkz7KyMHSj](https://ai.studio/apps/drive/1a-ChjbQ9jT7tePE-JK02LjYkz7KyMHSj)。
+如需从 AI Studio 直接打开官方版本，可访问：[https://aistudio.google.com/apps/drive/1a-ChjbQ9jT7tePE-JK02LjYkz7KyMHSj?fullscreenApplet=true&showPreview=true&showAssistant=true](https://aistudio.google.com/apps/drive/1a-ChjbQ9jT7tePE-JK02LjYkz7KyMHSj?fullscreenApplet=true&showPreview=true&showAssistant=true)。
