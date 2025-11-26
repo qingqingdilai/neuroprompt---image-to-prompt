@@ -1,0 +1,5 @@
+{
+  "name": "NeuroPrompt - Image to Prompt",
+  "description": "A reverse-engineering tool that analyzes images and generates detailed text-to-image prompts using Gemini Vision.",
+  "requestFramePermissions": []
+}
