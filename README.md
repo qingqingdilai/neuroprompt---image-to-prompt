@@ -86,6 +86,9 @@ NeuroPrompt 是一个使用 React + Vite 构建的逆向图像分析工具。它
 - **分析无结果/JSON 解析失败**：Gemini 可能返回格式化文本。可在 `geminiService.ts` 中捕获日志、放松 `responseSchema` 或增加重试机制。
 - **大图上传缓慢**：浏览器需将文件转 base64，再传给 Gemini。建议控制图片在 4MB 以内以获得更快响应。
 
+## License
+项目在 [MIT License](LICENSE) 下发布，可自由使用、修改与分发（需保留版权声明）。
+
 ---
 
 如需从 AI Studio 直接打开官方版本，可访问：[https://ai.studio/apps/drive/1a-ChjbQ9jT7tePE-JK02LjYkz7KyMHSj](https://ai.studio/apps/drive/1a-ChjbQ9jT7tePE-JK02LjYkz7KyMHSj)。
